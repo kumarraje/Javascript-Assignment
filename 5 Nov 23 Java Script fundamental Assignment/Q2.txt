@@ -1,0 +1,10 @@
+| Feature               |   HTML (HyperText Markup Language)                |   JavaScript                                       |
+| --------------------- | ------------------------------------------------- | -------------------------------------------------- |
+|   Purpose             | Structures the content of a webpage               | Adds interactivity and dynamic behavior            |
+|   Type                | Markup language                                   | Programming language                               |
+|   Execution           | Read and rendered by browsers                     | Executed by the browser’s JavaScript engine        |
+|   Syntax Example      | `<h1>Hello World</h1>`                            | `alert("Hello World");`                            |
+|   Usage               | Defines elements like headings, paragraphs, links | Controls actions like form validation, animations  |
+|   Static vs Dynamic   | Static content (unchanging)                       | Dynamic content (can change based on user actions) |
+
+

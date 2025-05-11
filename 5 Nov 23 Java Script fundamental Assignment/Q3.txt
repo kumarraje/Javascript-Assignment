@@ -1,0 +1,23 @@
+1.String
+Represents a sequence of characters used to store and manipulate text.
+Example: "Hello, World!"
+
+2.Number
+Represents both integer and floating-point numbers.
+Example: 42, 3.14
+
+3.Boolean
+Represents a logical entity and can have only two values: true or false.
+Example: true
+
+4.Undefined
+
+A variable that has been declared but has not yet been assigned a value is undefined.
+Example:
+let x;
+console.log(x); // undefined
+
+5.Null
+
+Represents the intentional absence of any object value.
+Example: let data = null;

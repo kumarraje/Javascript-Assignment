@@ -1,0 +1,15 @@
+Importance of Comments in JavaScript:
+Comments are an essential part of writing clean, readable, and maintainable code. 
+They are non-executable lines in your code that help explain what the code does. 
+Comments are ignored by the JavaScript engine during execution, but they serve several important purposes:
+
+Code Documentation: Comments help explain complex or unclear logic for other developers (or for your future self).
+
+Code Organization: They can be used to structure code by separating sections with descriptive headings.
+
+Debugging: Comments can be used to temporarily disable sections of code without deleting them, aiding in the debugging process.
+
+Collaboration: They allow teams of developers to communicate through the code, making it easier to collaborate.
+
+Better Readability: Well-commented code is easier to understand and maintain, especially in large projects.
+
