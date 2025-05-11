@@ -1,0 +1,11 @@
+In JavaScript, operators are categorized based on the number of operands they work with. 
+The two primary types are unary and binary operators.
+
+Unary Operators
+Definition: Operate on a single operand.
+Purpose: Often used for operations like incrementing, negating a value, or checking the type.
+
+Binary Operators
+Definition: Operate on two operands.
+Purpose: Used for arithmetic, assignment, comparison, and logical operations.
+
