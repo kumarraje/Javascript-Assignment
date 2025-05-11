@@ -1,0 +1,13 @@
+Loops in JavaScript are used to repeat a block of code multiple times. 
+They allow you to run code based on a condition and continue running it until that condition is no longer true. 
+This helps reduce redundancy, improves code efficiency, and makes tasks like iterating through arrays or performing repeated calculations much easier.
+
+To execute code repeatedly without rewriting it
+To iterate over data structures like arrays or objects
+To automate repetitive logic, such as validating inputs or processing multiple items
+
+1.for Loop
+2.while Loop
+3.do..while Loop
+4.for...of Loop
+5. for...in Loop 
